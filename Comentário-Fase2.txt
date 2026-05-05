@@ -1,0 +1,1 @@
+O principal problema foi o aparecimento recorrente da mensagem "CLIENTE> Tipos de argumentos inválidos" em múltiplos comandos que deveriam funcionar corretamente. Esta mensagem surge ao tentar listar o carrinho, listar categorias, listar produtos e listar encomendas.
